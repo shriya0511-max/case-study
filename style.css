@@ -1,0 +1,34 @@
+body
+{
+    font-family:'Architects Daughter',cursive;
+    background-color:  rgb(233, 199, 233);
+}
+#logo
+{
+    width: 200;
+    height: 100px;
+}
+#mug
+{
+    width: 200;
+    height: 150;
+}
+#fly
+{
+    width: 200;
+    height: 150;
+}
+#bottle
+{
+    width: 200;
+    height: 200;
+}
+#cake
+{
+    width: 200;
+    height: 150;
+}
+
+
+
+
